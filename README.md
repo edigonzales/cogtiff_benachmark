@@ -1,4 +1,4 @@
-# cogtiff_benachmark
+# cogtiff_benchmark
 
 ```
 /Users/stefan/apps/apache-jmeter-5.6.3/bin/jmeter -n -t cogtiff.jmx  -l hetzner-log-n1.jtl -e -o hetzner-dashboard-n1
